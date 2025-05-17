@@ -85,19 +85,18 @@ The dataset contains Airbnb listings across different neighbourhoods with variou
 
 <div align="center">
 
-![Profile Banner]((https://github.com/RabbiTheAnalyst/RabbiTheAnalyst/blob/main/RabbiTheAnalyst_cover_image.png))
+![Profile Banner](https://raw.githubusercontent.com/RabbiTheAnalyst/RabbiTheAnalyst/main/RabbiTheAnalyst_cover_image.png)
 
 **Md Rabbi Ali**  
 *Data Science Professional | Statistical Analyst*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/rabbi-ali-iu/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github)](https://github.com/RabbiTheAnalyst)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?logo=google-chrome)](https://rabbitheanalyst.github.io/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail)](mailto:rabbi.stat.iu@gmail.com)
 
 </div>
 
-### 📚 Education
-- ** B.Sc & M.Sc in Statistics** - Islamic University, Kushtia
 
 ---
 
