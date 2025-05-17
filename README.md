@@ -66,54 +66,82 @@ The dataset contains Airbnb listings across different neighbourhoods with variou
 
 ---
 
-## 🛠 Technologies Used
+## 🛠 Technology Stack
 
-- Python 🐍
-- Pandas 📊
-- Matplotlib 📈
-- Seaborn 🌊
-- VS Code 💻
+<div align="left">
 
---- 
+| Category       | Technologies                                                                 |
+|----------------|------------------------------------------------------------------------------|
+| **Core**       | ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python) ![Pandas](https://img.shields.io/badge/Pandas-1.3%2B-150458?logo=pandas) |
+| **Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4%2B-11557C?logo=matplotlib) ![Seaborn](https://img.shields.io/badge/Seaborn-0.11%2B-5B8AC6) |
+| **Development** | ![VS Code](https://img.shields.io/badge/VS_Code-1.60%2B-007ACC?logo=visual-studio-code)  |
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-2.33%2B-F05032?logo=git) ![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github) |
+
+</div>
 
 ---
 
----
+## 👨‍💻 Author Profile
 
-## 👨‍💻 Author
+<div align="center">
+
+![Profile Banner]((https://github.com/RabbiTheAnalyst/RabbiTheAnalyst/blob/main/RabbiTheAnalyst_cover_image.png))
 
 **Md Rabbi Ali**  
-🎓 *B.Sc & M.Sc in Statistics*, Islamic University  
-💼 *Junior Data Analyst*  
-🛠️ Skills: `Python` • `Power BI` • `Excel` • `SQL`  
-📬 **Email:** [rabbi.stat.iu@gmail.com](mailto:rabbi.stat.iu@gmail.com)  
-🌐 **GitHub:** [RabbiTheAnalyst](https://github.com/RabbiTheAnalyst)
+*Data Science Professional | Statistical Analyst*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github)](https://github.com/RabbiTheAnalyst)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail)](mailto:rabbi.stat.iu@gmail.com)
+
+</div>
+
+### 📚 Education
+- ** B.Sc & M.Sc in Statistics** - Islamic University, Kushtia
 
 ---
 
-## 📄 License
+## 📜 Licensing Information
 
-This project is licensed under the **MIT License**.  
-You are free to use, modify, and distribute with proper attribution.
+<div align="left">
 
-> © 2025 Md Rabbi Ali – All Rights Reserved
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
----
+**Permissions**  
+✔ Commercial Use  
+✔ Modification  
+✔ Distribution  
+✔ Private Use  
 
-## 🙏 Acknowledgements
+**Conditions**  
+ℹ License and copyright notice must be included
 
-- 🙌 Special thanks to **Airbnb** for providing open access datasets  
-- 💡 Inspired by the amazing **Data Science & EDA Community**  
-- 📁 This project is a proud part of my **portfolio-building journey**
+**Limitations**  
+✖ Liability  
+✖ Warranty  
 
----
+</div>
 
-## ⭐ Support
-
-If you find this project insightful or useful:
-
-> ✅ **Please consider giving it a star on GitHub!**  
-> It helps others discover this project and supports my work.
 
 ---
 
+## 💖 Support This Project
+
+<div align="left">
+
+Your support helps me create more open-source content:
+
+[![GitHub Stars](https://img.shields.io/github/stars/RabbiTheAnalyst/airbnb-analysis?style=social)](https://github.com/RabbiTheAnalyst/airbnb-analysis)
+[![Follow](https://img.shields.io/github/followers/RabbiTheAnalyst?style=social)](https://github.com/RabbiTheAnalyst)
+
+**Ways to contribute:**
+- ⭐ Star the repository
+- 🐞 Report issues
+- 💡 Suggest enhancements
+- ↗️ Share with your network
+
+</div>
+
+---
+
+© 2025 Md Rabbi Ali | All Rights Reserved
