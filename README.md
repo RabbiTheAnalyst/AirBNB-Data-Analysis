@@ -130,7 +130,7 @@ The dataset contains Airbnb listings across different neighbourhoods with variou
 
 Your support helps me create more open-source content:
 
-[![GitHub Stars](https://img.shields.io/github/stars/RabbiTheAnalyst/airbnb-analysis?style=social)](https://github.com/RabbiTheAnalyst/airbnb-analysis)
+[![GitHub Stars](https://img.shields.io/github/stars/RabbiTheAnalyst/AirBNB-Data-Analysis?style=social)](https://github.com/RabbiTheAnalyst/AirBNB-Data-Analysis)
 [![Follow](https://img.shields.io/github/followers/RabbiTheAnalyst?style=social)](https://github.com/RabbiTheAnalyst)
 
 **Ways to contribute:**
