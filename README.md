@@ -1,6 +1,12 @@
-# 🏠 Airbnb Dataset Analysis using Python
+# 🏠 Airbnb New York Listings: Exploratory Data Analysis
 
-This project performs a professional exploratory data analysis (EDA) on an Airbnb listing dataset using Python, Pandas, Seaborn, and Matplotlib. It covers data cleaning, visualization, and key insights extraction.
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Pandas](https://img.shields.io/badge/Pandas-1.3+-orange.svg)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4+-blue.svg)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.11+-lightblue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
+A comprehensive data analysis project examining Airbnb listing patterns, pricing dynamics, and neighborhood characteristics across New York City.
 
 ---
 
@@ -68,4 +74,46 @@ The dataset contains Airbnb listings across different neighbourhoods with variou
 - Seaborn 🌊
 - VS Code 💻
 
+--- 
+
 ---
+
+---
+
+## 👨‍💻 Author
+
+**Md Rabbi Ali**  
+🎓 *B.Sc & M.Sc in Statistics*, Islamic University  
+💼 *Junior Data Analyst*  
+🛠️ Skills: `Python` • `Power BI` • `Excel` • `SQL`  
+📬 **Email:** [rabbi.stat.iu@gmail.com](mailto:rabbi.stat.iu@gmail.com)  
+🌐 **GitHub:** [RabbiTheAnalyst](https://github.com/RabbiTheAnalyst)
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute with proper attribution.
+
+> © 2025 Md Rabbi Ali – All Rights Reserved
+
+---
+
+## 🙏 Acknowledgements
+
+- 🙌 Special thanks to **Airbnb** for providing open access datasets  
+- 💡 Inspired by the amazing **Data Science & EDA Community**  
+- 📁 This project is a proud part of my **portfolio-building journey**
+
+---
+
+## ⭐ Support
+
+If you find this project insightful or useful:
+
+> ✅ **Please consider giving it a star on GitHub!**  
+> It helps others discover this project and supports my work.
+
+---
+
